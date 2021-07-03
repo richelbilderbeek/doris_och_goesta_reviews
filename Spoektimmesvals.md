@@ -16,7 +16,7 @@ att för att natten är att gång   |while the night is ongoing?
 Svensk                           |English
 ---------------------------------|---------------------------------------
 en trästanvillen [3] tiger       |A [something] tiger
-som gåt hunrig flera dag         |which was hungry for some days
+som gåt hunrig flera dagor       |which was hungry for some days
 [4] en tanke bli jag mardröm     |a thought that would become a nightmare for me
 om had misstagt allt man hör     |that had misheard everything that could be heard
 kan du valsa med vår             |Can you walz with us,
