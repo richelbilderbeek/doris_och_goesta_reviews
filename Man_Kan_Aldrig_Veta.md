@@ -57,3 +57,7 @@ gud vilket mysterium
 men kan altid leta
 men man kan aldrig veta
 
+Wisdom from Frida:
+Gud, vilket mysterium, vad kan han heta?
+Gud, vilken mysterium, Johan eller Agneta?
+
