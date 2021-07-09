@@ -4,28 +4,31 @@ Svensk                       |English
 -----------------------------|---------------------------------------
 Vad vill en ko               |What does a cow want?
 kan man tro                  |That it something one can think about
-vil högsta gras              |want the highest grass
-vil högsta gäck              |want the biggest joke
-det är jag trodde            |
+vil högsta gäck              |want the highest grass
+vil unbega                   |want the biggest joke
+det skulle jag trodde        |
 sjunga en nosblues           |To sing a nose blues
-enda en nosblues             |Only a nose blues
+sjunga en nosblues           |Only a nose blues
 dit sång vem till            |
+tarvligen kul                |Evilishly fun
 
 Svensk                       |English
 -----------------------------|---------------------------------------
-tarvligen kul                |Evilishly fun
 vil hungra vad               |
-altid stre vad               |
+altid streva                 |
 för gru ser hur              |
 lära på log(ik)              |Learn about logic
 aldrig                       |Never!
 sjunga en nosblues           |
-det det av göra              |
+det det av vill göra         |
 nosblues                     |
+det är kul                   |
 det är kul                   |
 nosblues                     |
 sjunga en nosblues           |
 det är kul                   |
 det sång som är kul vil göra |
 det är som ej, kul           |
+
+
 
